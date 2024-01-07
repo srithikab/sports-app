@@ -9,8 +9,8 @@
 5. This will create a hidden directory called .ssh that contains both your public (id_rsa.pub) and private (id_rsa.) key files.
 
 ### Copy Key to git repo 
-1. Copy the public key by following the steps
-2. cat ~/.ssh/id_rsa.pub
+- 1. Copy the public key by following the steps
+- 2. cat ~/.ssh/id_rsa.pub
 3. Copy the ssh-rsa
 4. Go to 	https://github.com/srithikab/sports-app/settings/keys
 5. Click on deploy key button and Paste the ssh-rsa key and click on add key
