@@ -10,10 +10,10 @@
 
 ### Copy Key to git repo 
   1.  Copy the public key by following the steps
-  2.  cat ~/.ssh/id_rsa.pub
-  3.  Copy the ssh-rsa
-  4.  Go to 	https://github.com/srithikab/sports-app/settings/keys
-  5.  Click on deploy key button and Paste the ssh-rsa key and click on add key
+        cat ~/.ssh/id_rsa.pub
+  2.  Copy the ssh-rsa
+  3.  Go to 	https://github.com/srithikab/sports-app/settings/keys
+  4.  Click on deploy key button and Paste the ssh-rsa key and click on add key
 
 
 ## Opening a Sports App in Android Studio
